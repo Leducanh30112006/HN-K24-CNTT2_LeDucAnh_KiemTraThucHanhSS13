@@ -1,0 +1,8 @@
+[2026-05-28 14:48:42] [INFO] [org.hibernate.validator.internal.util.Version] - HV000001: Hibernate Validator 9.0.1.Final
+[2026-05-28 14:48:42] [INFO] [ra.demo.controller.BookControllerTest] - Starting BookControllerTest using Java 21.0.10 with PID 21408 (started by Admin in E:\dowload\KiemTraHackathon_SpringAPI)
+[2026-05-28 14:48:42] [DEBUG] [ra.demo.controller.BookControllerTest] - Running with Spring Boot v4.0.6, Spring v7.0.7
+[2026-05-28 14:48:42] [INFO] [ra.demo.controller.BookControllerTest] - No active profile set, falling back to 1 default profile: "default"
+[2026-05-28 14:48:44] [INFO] [org.springframework.boot.test.mock.web.SpringBootMockServletContext] - Initializing Spring TestDispatcherServlet ''
+[2026-05-28 14:48:44] [INFO] [org.springframework.test.web.servlet.TestDispatcherServlet] - Initializing Servlet ''
+[2026-05-28 14:48:44] [INFO] [org.springframework.test.web.servlet.TestDispatcherServlet] - Completed initialization in 4 ms
+[2026-05-28 14:48:45] [INFO] [ra.demo.controller.BookControllerTest] - Started BookControllerTest in 3.308 seconds (process running for 4.866)
